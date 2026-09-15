@@ -1,8 +1,8 @@
 {
-  "version": "1.6.7",
-  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.7.zip",
-  "checksum": "c0d8bb28d125ebd985d3f325acd60411a0a3afd8089ef8390a4ce0bbfb53a339",
-  "size": 475310,
+  "version": "1.6.8",
+  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.8.zip",
+  "checksum": "6cd83f20dedcd9ae3e06ccfe10c21cbb3e80b6e12f64b5c52e1c0caf968d5da8",
+  "size": 475469,
   "notes": "Track what is in the pocket, and name the two kinds of spending properly",
-  "published": "2026-09-15T05:03:58.119Z"
+  "published": "2026-09-15T05:34:48.173Z"
 }
