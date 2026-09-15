@@ -1,8 +1,8 @@
 {
-  "version": "1.6.12",
-  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.12.zip",
-  "checksum": "cec32896cba9b6c4cf3a02f121652adb0c1e0cabd487e37c106dae4f628ca5f8",
-  "size": 474813,
-  "notes": "Give the breakdown its own card and drop the income box",
-  "published": "2026-09-15T08:49:53.697Z"
+  "version": "1.6.13",
+  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.13.zip",
+  "checksum": "612406e14ed52d2a4ab5286b669692c0f9593435b1ac4bd84511d3f0d7256f40",
+  "size": 474817,
+  "notes": "Look for updates when the app comes back to the foreground",
+  "published": "2026-09-15T08:56:51.475Z"
 }
