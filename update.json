@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
-  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.3.zip",
-  "checksum": "c068ada0b27d9d40510e6d2a71e96ee05a4ada18680fe232812c8a5bf932c1a4",
-  "size": 474219,
-  "notes": "Point the updater at the release repo that exists",
-  "published": "2026-09-15T03:04:56.935Z"
+  "version": "1.6.4",
+  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.4.zip",
+  "checksum": "c39e277ef9cd77b1d6cca104bc8c9d73c1fa92b3aa4da1af40b28601ece53337",
+  "size": 474199,
+  "notes": "Publish updates without a token, and check the zip before shipping it",
+  "published": "2026-09-15T03:11:58.884Z"
 }
