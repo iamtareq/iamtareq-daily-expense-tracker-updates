@@ -1,8 +1,8 @@
 {
-  "version": "1.6.11",
-  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.11.zip",
-  "checksum": "0cacb0a7993ab8c492ac99beac46e56973137c51d80b1da206c157666266f366",
-  "size": 474732,
-  "notes": "Stop hiding the per-day figure on the phone it was written for",
-  "published": "2026-09-15T08:29:06.008Z"
+  "version": "1.6.12",
+  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.12.zip",
+  "checksum": "cec32896cba9b6c4cf3a02f121652adb0c1e0cabd487e37c106dae4f628ca5f8",
+  "size": 474813,
+  "notes": "Give the breakdown its own card and drop the income box",
+  "published": "2026-09-15T08:49:53.697Z"
 }
