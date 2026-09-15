@@ -1,8 +1,8 @@
 {
-  "version": "1.6.9",
-  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.9.zip",
-  "checksum": "4734aa099dc571d4aa55cece3ba250d6ddd27eeb538bca2b324625ae5112092a",
-  "size": 474776,
-  "notes": "Stop a stalled download from freezing the update banner",
-  "published": "2026-09-15T06:09:02.510Z"
+  "version": "1.6.10",
+  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.10.zip",
+  "checksum": "b5d2d98149528168598970eb15b2600197c71d45054c13343d9562f727fd5f7b",
+  "size": 474757,
+  "notes": "Show where the month went in three lines, and drop the pocket",
+  "published": "2026-09-15T06:10:21.537Z"
 }
