@@ -1,8 +1,8 @@
 {
-  "version": "1.6.10",
-  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.10.zip",
-  "checksum": "b5d2d98149528168598970eb15b2600197c71d45054c13343d9562f727fd5f7b",
-  "size": 474757,
-  "notes": "Show where the month went in three lines, and drop the pocket",
-  "published": "2026-09-15T06:10:21.537Z"
+  "version": "1.6.11",
+  "url": "https://raw.githubusercontent.com/iamtareq/iamtareq-daily-expense-tracker-updates/main/bundle-1.6.11.zip",
+  "checksum": "0cacb0a7993ab8c492ac99beac46e56973137c51d80b1da206c157666266f366",
+  "size": 474732,
+  "notes": "Stop hiding the per-day figure on the phone it was written for",
+  "published": "2026-09-15T08:29:06.008Z"
 }
